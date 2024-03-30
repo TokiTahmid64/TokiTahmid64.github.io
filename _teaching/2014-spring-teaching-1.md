@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 1000000"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -10,7 +10,7 @@ location: "City, Country"
 
 Hello
 
-Heading 1
+Heading 100
 ======
 
 Heading 2
